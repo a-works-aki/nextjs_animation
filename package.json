@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.14",
+    "framer-motion": "^10.12.16",
     "next": "latest",
     "postcss": "^8.4.24",
     "postcss-flexbugs-fixes": "^5.0.2",
